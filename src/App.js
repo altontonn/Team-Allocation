@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./App.css";
 import Header from "./Header";
 import Employees from "./Employees";
@@ -6,9 +6,9 @@ import Footer from "./Footer";
 
 function App() {
   // eslint-disable-next-line
-  const [selectedTeam, setTeam] = useState("TeamB")
+  const [selectedTeam, setTeam] = useState(JSON.parse(localStorage.getItem("selectedTeam")) || "TeamB")
   // eslint-disable-next-line
-  const [employees, setEmployees] = useState([
+  const [employees, setEmployees] = useState(JSON.parse(localStorage.getItem("employeeList")) || [
     {
       id: 1,
       fullName: "Bob Jones",
@@ -94,6 +94,14 @@ function App() {
       teamName: "TeamD",
     },
   ]);
+
+  useEffect(() => {
+    localStorage.setItem('employeeList', JSON.stringify(employees))
+  }, [employees])
+
+  useEffect(() => {
+    localStorage.setItem('selectedTeam', JSON.stringify(selectedTeam))
+  }, [selectedTeam])
 
   function handleTeamSelectionChange(event) {
     console.log(event.target.value);
