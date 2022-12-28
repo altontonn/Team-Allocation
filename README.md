@@ -1,7 +1,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Team Member Allocation
 
 > This is a team member project that keeps track of employees in their specific teams. One can add or remove the employees and assign them to other teams. It also shows the total number of employees in their respective teams.
 
