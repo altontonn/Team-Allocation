@@ -3,55 +3,37 @@
 
 # Project Name
 
-> Description the project.
+> This is a team member project that keeps track of employees in their specific teams. One can add or remove the employees and assign them to other teams. It also shows the total number of employees in their respective teams.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+[coming soon](https://livedemo.com)
 
 ### Setup
+Clone this repository to your desired folder:
+
+```sh
+cd my-folder
+git clone https://github.com/altontonn/Team-Allocation
+```
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- npm install
+- npm start # this will make react watching for your changes in code
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@github](https://github.com/altontonn/)
+- Twitter: [@twitter](https://twitter.com/AlumasaNewton)
+- Linkedin:[Username](https://www.linkedin.com/in/newton-alumasa/)
 
 ## 🤝 Contributing
 
@@ -65,9 +47,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- I would like to thank Gavin Lon for instructions and guidance in this react project
 
 ## 📝 License
 
