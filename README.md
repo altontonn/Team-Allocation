@@ -29,11 +29,11 @@ git clone https://github.com/altontonn/Team-Allocation
 
 ## Authors
 
-👤 **Author1**
+👤 **Newton Alumasa**
 
-- GitHub: [@github](https://github.com/altontonn/)
-- Twitter: [@twitter](https://twitter.com/AlumasaNewton)
-- Linkedin:[Username](https://www.linkedin.com/in/newton-alumasa/)
+- [Github](https://github.com/altontonn/)
+- [Twitter](https://twitter.com/AlumasaNewton)
+- [Linkedin](https://www.linkedin.com/in/newton-alumasa/)
 
 ## 🤝 Contributing
 
