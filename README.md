@@ -12,7 +12,7 @@
 
 ## Live Demo (if available)
 
-[coming soon](https://livedemo.com)
+[See Live](https://team-employee.netlify.app/)
 
 ### Setup
 Clone this repository to your desired folder:
