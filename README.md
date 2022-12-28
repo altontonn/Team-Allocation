@@ -23,8 +23,10 @@ git clone https://github.com/altontonn/Team-Allocation
 ```
 
 ### Install
-- npm install
-- npm start # this will make react watching for your changes in code
+```sh
+npm install
+npm start # this will make react watching for your changes in code
+```
 
 
 ## Authors
