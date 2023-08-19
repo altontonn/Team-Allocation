@@ -29,7 +29,7 @@ npm start # this will make react watching for your changes in code
 ```
 
 
-## Authors
+## Author
 
 👤 **Newton Alumasa**
 
