@@ -10,7 +10,7 @@
 
 - React
 
-## Live Demo (if available)
+## Live Demo
 
 [See Live](https://team-employee.netlify.app/)
 
